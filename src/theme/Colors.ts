@@ -1,0 +1,26 @@
+export default {
+  primary: {
+    primary: '#F9D806',
+  },
+  primaryGray: {
+    primaryGray900: '#424242',
+    primaryGray800: '#616161',
+    primaryGray700: '#757575',
+    primaryGray600: '#9E9E9E',
+    primaryGray500: '#BDBDBD',
+    primaryGray400: '#E0E0E0',
+    primaryGray300: '#EEEEEE',
+    primaryGray200: '#F5F5F5',
+    primaryGray100: '#FAFAFA',
+    primaryGray50: '#ffffff',
+  },
+  bodyColor: '#212529',
+  helpColor: '#616161',
+  black: '#000',
+  white: '#fff',
+  transparent: 'transparent',
+  placeholderText: '#616161',
+  error: '#C8102E',
+  blackOpacity: 'rgba(0,0,0,0.3)',
+  opacityBackground: 'rgba(0, 0, 0, 0.5)',
+};
